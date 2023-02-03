@@ -1,4 +1,4 @@
-# 鳥の写真をアーカイブする
+# Archiving A Picture of Bird
 いい感じの写真が撮れたら追加していく
 
 ![DSC_0974](https://user-images.githubusercontent.com/86777445/216687698-7b900ea6-f0ce-4e98-b8ea-82f8323a1fa6.JPG)
